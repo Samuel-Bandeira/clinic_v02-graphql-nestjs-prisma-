@@ -7,3 +7,4 @@
 - [x] Add apointment logic using doctor schedules in each day
 - [x] Appointment mutation working
 - [x] Add patient mutation working
+- [x] Change Typeorm to prisma orm
