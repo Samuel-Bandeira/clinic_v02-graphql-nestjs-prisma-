@@ -1,5 +1,5 @@
 
-# This is the backend project of a booking/appointments system for a medical clinic
+## This is the backend project of a booking/appointments system for a medical clinic
 - [x] add graphql to the project
 - [x] make doctors and specialties multations
 - [x] Get both doctors and specialties data using graphql queries
